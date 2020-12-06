@@ -1,4 +1,4 @@
-# tasda
+# the greatest calculator
 
 ![WeatherDash](https://img.shields.io/github/languages/top/archanagottipaty/WeatherDash)
 
@@ -13,25 +13,25 @@
 
 ## Description
 
-The installation instructions are low priority in the readme and should come at the bottom. The first part answers all their objections and now that they want to use it, show them how.
+this is the greatest calculator ever build because it is a replica of existing calculators which can do all types of math.
 
 ## Installation
 
 ```
-install me
+npm i???
 ```
 
 ## Usage
 
-use me
+node index.js
 
 ## Credits
 
-me myself and I
+me, ta, and instructor
 
 ## Licences-used
 
-undefined
+apache
 
 
 

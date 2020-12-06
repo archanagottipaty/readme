@@ -85,7 +85,7 @@ ${answers.credits}
 
 ## Licences-used
 
-${answers.licence}
+${answers.license}
 
 
 
