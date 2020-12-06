@@ -1,39 +1,6 @@
-# the greatest calculator
+Link to the application:
+https://drive.google.com/file/d/1Z5nrsWXPqXCSOiAZ_vN_CmF_y37tlSP_/view
 
-![WeatherDash](https://img.shields.io/github/languages/top/archanagottipaty/WeatherDash)
-
-## **Table of contents**
-
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [Licences Used](#licences-used)
-
-
-## Description
-
-this is the greatest calculator ever build because it is a replica of existing calculators which can do all types of math.
-
-## Installation
-
-```
-npm i???
-```
-
-## Usage
-
-node index.js
-
-## Credits
-
-me, ta, and instructor
-
-## Licences-used
-
-apache
-
-
-
-
+This is a readme generator.  
+I used node,inquirer, MD instead of HTML and javascript to create a commmand which saves answers from user and displays it back to the user as part of a README file.
 
