@@ -56,10 +56,39 @@ const generateMD = (answers) =>
 
 ![WeatherDash](https://img.shields.io/github/languages/top/archanagottipaty/WeatherDash)
 
-## Table of contents
-* [Use Case](#use-case)
-* [Application Objective](#application-objective)
-* [Functionality](#functionality)
-* [Setup](#setup)
-* [Technologies Used](#technologies-used)
-* [Developers](#developers)`
+## **Table of contents**
+
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [Licences Used](#licences-used)
+
+
+## Description
+
+${answers.description}
+
+## Installation
+
+\`\`\`
+${answers.installation}
+\`\`\`
+
+## Usage
+
+${answers.usage}
+
+## Credits
+
+${answers.credits}
+
+## Licences-used
+
+${answers.licence}
+
+
+
+
+
+`
